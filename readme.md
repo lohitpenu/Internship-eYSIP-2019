@@ -1,3 +1,1 @@
-This repo contains tutorials for Git, Latex and a getting started assignment on using git and latex.
-
-More tutroials will be coming soon.
+This repo contains tutorials for Git, Latex, Linux and a getting started assignment on using git and latex.
